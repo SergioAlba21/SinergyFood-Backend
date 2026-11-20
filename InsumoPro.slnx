@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/InsumoPro.Api/InsumoPro.Api.csproj" />
+    <Project Path="src/InsumoPro.Application/InsumoPro.Application.csproj" />
+    <Project Path="src/InsumoPro.Domain/InsumoPro.Domain.csproj" />
+    <Project Path="src/InsumoPro.Infrastructure/InsumoPro.Infrastructure.csproj" />
+    <Project Path="src/InsumoPro.Shared/InsumoPro.Shared.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/InsumoPro.IntegrationTests/InsumoPro.IntegrationTests.csproj" />
+    <Project Path="tests/InsumoPro.UnitTests/InsumoPro.UnitTests.csproj" />
+  </Folder>
+</Solution>

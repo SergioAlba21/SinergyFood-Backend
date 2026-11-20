@@ -1,0 +1,6 @@
+@InsumoPro.Api_HostAddress = http://localhost:5187
+
+GET {{InsumoPro.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
